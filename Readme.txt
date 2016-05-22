@@ -1,3 +1,3 @@
-hier fehlt der Inhalt!
---Was soll denn hier stehen?
--- Zum Beispiel etwas über das Projekt?!?!
+NB: hier fehlt der Inhalt!
+PC: Was soll denn hier stehen?
+NB: Zum Beispiel etwas über das Projekt?!?!
